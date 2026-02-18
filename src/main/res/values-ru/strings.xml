@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LK Mobile</string>
+    <string name="login_title">Добро пожаловать</string>
+    <string name="login_subtitle">Введите ваш ID доступа для продолжения</string>
+    <string name="id_hint">ID доступа</string>
+    <string name="verify_button">Проверить</string>
+    <string name="name_title">Выберите имя</string>
+    <string name="name_subtitle">Так вас будут видеть другие игроки</string>
+    <string name="name_hint">Ваш никнейм</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="users_title">Игроки</string>
+    <string name="invite_button">Пригласить</string>
+    <string name="playing_now">Играет в Mobile Legends</string>
+    <string name="online">В сети</string>
+    <string name="offline">Не в сети</string>
+    <string name="invite_notification_title">Приглашение в игру</string>
+    <string name="invite_notification_text">%s пригласил вас сыграть в Mobile Legends!</string>
+    <string name="invite_channel_name">Приглашения в игру</string>
+    <string name="invite_channel_description">Уведомления о приглашениях от других игроков</string>
+    <string name="error_empty_id">Пожалуйста, введите ID</string>
+    <string name="error_invalid_id">Неверный ID. Попробуйте снова.</string>
+    <string name="error_empty_name">Пожалуйста, введите имя</string>
+    <string name="error_connection">Ошибка соединения. Проверьте интернет.</string>
+    <string name="logout">Выйти</string>
+    <string name="settings">Настройки</string>
+</resources>
